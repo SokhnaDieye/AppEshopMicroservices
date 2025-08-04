@@ -5,22 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26395801-833a-4847-bdf9-3fe8c1de3e5d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/image1.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/image2.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/image3.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/image4.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/image5.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/image6.PNG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-service/src/main/java/sn/isi/userservice/controller/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/src/main/java/sn/isi/userservice/controller/AuthController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-service/src/main/java/sn/isi/userservice/security/JwtAuthFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/src/main/java/sn/isi/userservice/security/JwtAuthFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-service/src/main/java/sn/isi/userservice/security/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/src/main/java/sn/isi/userservice/security/SecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-service/src/main/java/sn/isi/userservice/service/AuthService.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/src/main/java/sn/isi/userservice/service/AuthService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-service/src/main/java/sn/isi/userservice/service/JwtService.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/src/main/java/sn/isi/userservice/service/JwtService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-service/target/classes/sn/isi/userservice/security/JwtAuthFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/target/classes/sn/isi/userservice/security/JwtAuthFilter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-service/target/classes/sn/isi/userservice/security/SecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/target/classes/sn/isi/userservice/security/SecurityConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-service/target/classes/sn/isi/userservice/service/JwtService.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/target/classes/sn/isi/userservice/service/JwtService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,7 +151,7 @@
       <workItem from="1748690459473" duration="57000" />
       <workItem from="1749558835905" duration="2540000" />
       <workItem from="1751211646219" duration="508000" />
-      <workItem from="1754256805320" duration="3957000" />
+      <workItem from="1754256805320" duration="4345000" />
     </task>
     <servers />
   </component>
