@@ -24,7 +24,7 @@ public class AuthController {
 
     @PostMapping("/token")
     public ResponseEntity<TokenResponse> token(@RequestBody LoginRequest request) {
-        return ResponseEntity.ok(authService.login(request)); // login retourne un JWT
+        return ResponseEntity.ok(authService.login(request));
     }
 
     @PostMapping("/refresh-token")
@@ -34,6 +34,6 @@ public class AuthController {
 
     @GetMapping("/me")
     public ResponseEntity<?> getMe(@AuthenticationPrincipal UserDetails userDetails) {
-        return ResponseEntity.ok(userDetails); // Ou mapper vers un DTO si besoin
+        return ResponseEntity.ok(userDetails);
     }
 }

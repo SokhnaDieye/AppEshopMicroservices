@@ -50,7 +50,7 @@ public class AuthService {
     }
 
     // Refresh token
-    public TokenResponse refreshToken(TokenResponse request) {
+    public TokenResponse refreshToken(TokenResponse request)  {
         String refreshToken = request.getRefreshToken();
         String username = jwtService.extractUsername(refreshToken);
 
